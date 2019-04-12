@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25063966-5d98-4c21-82b7-d59fe0745edd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Hello World/META-INF/Hello World.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Hello World/br/com/digitalhouse/Exercicio01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Hello World/br/com/digitalhouse/Exercicio02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Hello World/br/com/digitalhouse/Exercicio03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Hello World/br/com/digitalhouse/Exercicio04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Hello World/br/com/digitalhouse/Exercicio05.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Hello World/br/com/digitalhouse/Exercicio06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -68,8 +61,8 @@
     </navigator>
     <panes>
       <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -78,7 +71,8 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vcs.patch.path" value="$USER_HOME$/Desktop/https:/github.com/kelydsc" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -193,7 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1554491351280</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adicionando projeto Hello World.">
+      <created>1554491770810</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554491770810</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adicionando projeto Hello World.">
+      <created>1554491922231</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554491922231</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -208,7 +216,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -216,7 +224,6 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="SVN Repositories" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
@@ -229,6 +236,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
+      <window_info anchor="bottom" id="SVN Repositories" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -264,10 +272,25 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adicionando pasta Hello World" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando pasta Hello World" />
+    <MESSAGE value="Adicionando projeto Hello World." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando projeto Hello World." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/package-info.java" />
